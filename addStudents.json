@@ -1,0 +1,22 @@
+{
+	"version":"1.2",
+	"students":
+	[
+		{
+			"fname" : "Mjabber",
+			"lname" : "Ismail",
+			"grade" : "9th"
+		},
+		{
+			"fname" : "Taylor",
+			"lname" : "William",
+			"grade" : "12th"
+		},
+		{
+			"fname" : "Alicia",
+			"lname" : "Aaron",
+			"grade" : "12th"
+		}
+	]
+}
+
